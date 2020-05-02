@@ -2121,3 +2121,6 @@ section.lazy-placeholder:after {
 .cid-rXxAWWhNds a.img {
   pointer-events: none;
 }
+.cid-rXxAWWhNds DIV {
+  text-align: left;
+}
